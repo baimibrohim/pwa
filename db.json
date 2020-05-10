@@ -1,1 +1,11 @@
-
+[
+  {"id": 1, "name": "muhammad Ibrohim","address": "Jakarta"},
+  {"id": 2, "name": "muhammad Ihsan","address": "Tangerang"},
+  {"id": 3, "name": "muhammad Jenal","address": "Bandung"},
+  {"id": 4, "name": "muhammad Ramlan","address": "Bogor"  },
+  {"id": 5, "name": "muhammad Robi","address", "Bekasi"},
+  {"id": 6, "name": "muhammad Jamal","address": "Cikupa"},
+  {"id": 7, "name": "muhammad Rafi","address": "Balaraja"},
+  {"id": 8, "name": "muhammad Kahfi","address": "Cikampek"},
+  {"id": 9, "name": "muhammad Salah","address":  "Pesing"},
+]

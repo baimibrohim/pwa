@@ -1,6 +1,12 @@
-{"users":[{"id":1,"first_name":"Sheela","last_name":"Gamil"},
-{"id":2,"first_name":"Salim","last_name":"Valero"},
-{"id":3,"first_name":"Zacharia","last_name":"Nower"},
-{"id":4,"first_name":"Elladine","last_name":"Forlonge"},
-{"id":5,"first_name":"Ninette","last_name":"Rove"},
-{"id":6,"first_name":"Franklyn","last_name":"Cromar"}]}
+{"products":[{"id":1,"name":"Western grey kangaroo","catogory":"Maroon"},
+{"id":2,"name":"Golden jackal","catogory":"Khaki"},
+{"id":3,"name":"Dingo","catogory":"Aquamarine"},
+{"id":4,"name":"Mountain duck","catogory":"Maroon"},
+{"id":5,"name":"Tsessebe","catogory":"Purple"},
+{"id":6,"name":"Pigeon, wood","catogory":"Puce"},
+{"id":7,"name":"Hottentot teal","catogory":"Blue"},
+{"id":8,"name":"Brindled gnu","catogory":"Mauv"},
+{"id":9,"name":"African wild cat","catogory":"Indigo"},
+{"id":10,"name":"Tropical buckeye butterfly","catogory":"Red"},
+{"id":11,"name":"Sparrow, house","catogory":"Puce"},
+{"id":12,"name":"Egret, cattle","catogory":"Purple"}]}

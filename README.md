@@ -2,9 +2,9 @@
 
 # link
 
-# Tutorial
-# https://www.youtube.com/watch?v=DxFLXfLZ3X4&list=PLCZlgfAG0GXDsbx5eHX0dFzF2C35THONn&index=1
-# ==================================
+Tutorial
+https://www.youtube.com/watch?v=DxFLXfLZ3X4&list=PLCZlgfAG0GXDsbx5eHX0dFzF2C35THONn&index=1
+==================================
 
 # Save on github
 # https://github.com/baimibrohim/pwa
